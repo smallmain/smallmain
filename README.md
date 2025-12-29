@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 If my code has been helpful to you, kindly consider sponsoring me.
 
-- [GitHub Sponsor](https://github.com/sponsors/sxzz)
+- [GitHub Sponsor](https://github.com/sponsors/smallmain)
 
 如果我的代码对您有所帮助，恳请你考虑赞助我。
 
