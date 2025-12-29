@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+
+To be supplemented...
 
 <!--
 **smallmain/smallmain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Sponsor
+
+If my code has been helpful to you, kindly consider sponsoring me.
+
+- [GitHub Sponsor](https://github.com/sponsors/sxzz)
+
+如果我的代码对您有所帮助，恳请你考虑赞助我。
+
+- [爱发电](https://afdian.com/a/smallmain)
