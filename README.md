@@ -1,4 +1,4 @@
-## Hi there
+### Hi there
 
 To be supplemented...
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Sponsor
+### Sponsor
 
 If my code has been helpful to you, kindly consider sponsoring me.
 
